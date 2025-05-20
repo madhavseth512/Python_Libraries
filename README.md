@@ -1,2 +1,2 @@
-# IITG_SummerAnalytics
-Starting my data science journey through this course.
+# Python Libraries
+I made this repository to collect knowledge about whatever Python Libraries I am learning.
